@@ -1,4 +1,4 @@
-# Atividades em Java
+# Projetos em Java
 
 Coleção de atividades básicas desenvolvidas em Java para portifólio.
 
